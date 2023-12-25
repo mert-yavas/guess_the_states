@@ -1,18 +1,23 @@
-# Turtle Crossing Game
+# Guess the States
 ## Overview
-Hello, everyone! I'm Mert, and today is Day 23 of my "100 Days of Python" challenge. For this project, I'm excited to introduce the "Turtle Crossing Game," a Python program using the Turtle graphics library. In this game, you'll guide a turtle to cross a busy road while avoiding cars.
+Hello, everyone! I'm Mert, and today is Day 25 of my "100 Days of Python" challenge. In this project, I've created the "Guess the States," a Python program using the Turtle graphics library. This educational game helps you learn and identify U.S. states on the map.
 
 ## Project Description
-In the "Turtle Crossing Game," you control a turtle at the bottom of the screen, trying to cross a busy road with moving cars. Your goal is to safely reach the top of the screen without colliding with any cars. The game becomes progressively challenging as the speed of the cars increases. Be careful and swift to navigate the road successfully!
+In the "Guess the States," you'll be prompted to guess and locate various U.S. states on a blank map. The game displays the name of a state, and you use the Turtle graphics library to position the state name on the correct location. The objective is to correctly guess and place all 50 U.S. states, with the game tracking your progress.
 
-![guess_the_states](guess_the_states.png)
-
-## How to Run
-To play the Turtle Crossing Game, run the following command:
 
 ```bash
 python main.py
 ```
+
+
+![guess_the_states](guess_the_states.png)
+
+
+## How to Run
+To play the Guess the States, run the following command:
+
+
 
 Ensure that you have Python installed on your system and that you have the required files in the same directory: "main.py," "state_turtle.py," "50_states.csv," and "blank_states_img.gif."
 
